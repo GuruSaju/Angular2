@@ -16,3 +16,9 @@ Modules(import and export)
 
 Features
 *Static type checking * compile time checking (compiler errors) * access modifiers * generics * Interface * class based objects * Modularity *Es6 features *syntax is closer to java
+
+npm install -g typecript to install with node js
+
+access modifier variablename:datatype 
+
+
