@@ -12,3 +12,7 @@ Arrow functions
 Inheritance
 Transcompiler
 Modules(import and export) 
+** Typescript is a superscript of JS 
+
+Features
+*Static type checking * compile time checking (compiler errors) * access modifiers * generics * Interface * class based objects * Modularity *Es6 features *syntax is closer to java
